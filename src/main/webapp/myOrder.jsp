@@ -11,6 +11,12 @@
 <title>我的订单-JZ商城</title>
 <link rel="stylesheet" href="css/mr-01.css" type="text/css">
 <link rel="stylesheet" href="css/pagination.css" type="text/css">
+
+<style type="text/css">
+table thead tr {
+
+</style>
+
 <script src="js/jquery-1.12.4.js" type="text/javascript"></script>
 </head>
 <body>
@@ -29,7 +35,7 @@
 								<!-- 显示全部订单 -->
 								<div class="table-responsive cart-info">
 									<table class="table table-bordered">
-										<thead>
+										<thead style="">
 											<tr>
 												<td style="text-align:center;">订单创建时间</td>
 												<td style="text-align:center;">宝贝</td>

@@ -7,9 +7,6 @@
 <title>注册-JZ商城</title>
 <link rel="stylesheet" href="css/manager.css" type="text/css">
 <script src="js/jquery-1.12.4.js" type="text/javascript"></script>
-<style type="text/css">
-
-</style>
 </head>
 
 <body style="margin:0px;">
